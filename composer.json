@@ -1,0 +1,15 @@
+{
+    "name": "stephanhoeksema/dev-sl01",
+    "autoload": {
+        "psr-4": {
+            "Stephanhoeksema\\DevSl01\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Stephan Paul Hoeksema",
+            "email": "s.hoeksema@windesheim.nl"
+        }
+    ],
+    "require": {}
+}
