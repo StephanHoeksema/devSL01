@@ -22,3 +22,4 @@ $result = $age / $pi;
 
 echo "Float: $age " . "/" . " $pi " . "= $result <br><hr>";
 
+require 'views/index.view.php';
