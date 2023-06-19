@@ -55,14 +55,15 @@
                 </svg>
                 Your Location - 52.5185° N, 5.4714° E
             </p>
-            <p class="pt-8 text-sm">As a teacher of software development, My students describe him as a patient,
-                resourceful, and approachable instructor. I am known for taking the time to understand my students'
-                individual learning styles and adjusting my teaching approach accordingly. Whether working with beginner
-                or advanced coders,
-                I have a talent for breaking down complex programming concepts into understandable chunks, enabling my
-                students to learn at their own pace and build the confidence they need to succeed. My passion for
-                software development is infectious, and my students leave the classes feeling inspired and empowered to
-                pursue their own careers in the field.</p>
+            <p class="pt-8 text-sm">
+                Als docent softwareontwikkeling word ik door mijn studenten omschreven als een geduldige,
+                vindingrijke en benaderbare Docent. Ik sta bekend om het nemen van de tijd om de individuele leerstijl
+                van mijn studenten te begrijpen en mijn lesmethoden aan te passen.
+                Of ik nu werk met beginnende of gevorderde programmeurs, ik ben goed in staat om complexe programmeerconcepten
+                op te splitsen in begrijpelijke stukken, waardoor mijn studenten op hun eigen tempo kunnen leren en het
+                vertrouwen kunnen opbouwen dat ze nodig hebben om succesvol te zijn. Mijn passie voor softwareontwikkeling is aanstekelijk
+                en mijn studenten verlaten de lessen geïnspireerd en gemotiveerd om hun eigen carrière in het veld na te streven.
+            </p>
 
             <div class="pt-12 pb-8">
                 <button class="bg-green-700 hover:bg-green-900 text-white font-bold py-2 px-4 rounded-full">
